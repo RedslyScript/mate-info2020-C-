@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602776616 source:d:\mate-info2020-c++\tema-problema2\main.cpp
+	<iostream>
+	<math.h>
+
